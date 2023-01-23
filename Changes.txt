@@ -1,0 +1,7 @@
+rev.A
+Initial revision
+
+rev.B
+Added D1, D2
+Added R22, R23
+Exposed copper area on the bottom side under P2
