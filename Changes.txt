@@ -1,7 +1,13 @@
 rev.A
 Initial revision
 
+
 rev.B
 Added D1, D2
 Added R22, R23
 Exposed copper area on the bottom side under P2
+
+
+rev.C
+Added R24
+U2 changed to IS25LP256D
