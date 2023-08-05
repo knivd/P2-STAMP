@@ -10,4 +10,12 @@ Exposed copper area on the bottom side under P2
 
 rev.C
 Added R24
-U2 changed to IS25LP256D
+U2 changed from S25FL256SAGB to IS25LP256D-JHLE (or -RHLE)
+
+
+rev.D
+PCB thickness increased from 1.2mm to 2mm
+External pad holes reduced from 0.65mm to 0.57mm
+R4, R13 changed from 300R to 220R
+R17, R18 changed from 300R to 330R
+Added R25, R26, R27
